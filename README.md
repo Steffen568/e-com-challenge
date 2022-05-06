@@ -12,6 +12,7 @@
     
     Your challenge is to build the back end for an e-commerce site. You’ll take a working Express.js API and configure it to use Sequelize to interact with a MySQl database.
   
+  [![IMAGE ALT TEXT](https://screenrec.com/share/c9jtLPQE5z.jpg)](https://screenrec.com/share/c9jtLPQE5z "Link to walk through video")
   Link to walk through video: https://screenrec.com/share/c9jtLPQE5z
   
   ## Languages Used in App
